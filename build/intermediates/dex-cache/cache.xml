@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.4.0_7e127136c11a1e9afc441d313152706aeaf090cb.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.4.0_4f919b94b2e7221ced322bbffed55c5f74fd2b26.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.4.0_a1ead026de11363579858f034d37d0ef12303ba9.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.4.0_c6f3e44d875922e24934a738391c2dcb1d9cccf9.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.4.0_2ce80bce23e1e6356bf8a91351d882988ad5c67f.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0_75fa5685dfe40228f6ccfd02a4d6a518960edb46.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.actionbarsherlock-actionbarsherlock-4.4.0_5ff1fac2fc373e0776ec86a951969f380d10b277.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-9.4.0_f14181b49f7f164e69201508331c6135597fdb99.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.4.0_c3e4906bdb33d5711e6f851cca7647a6122c5d39.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.4.0_15dcf69d61fb93cbaee566bdce26f1cc268a2fad.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.4.0_c2d4e332f1373382e1411b142d31959a7fda29d7.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-9.4.0_42ee5e4938a317cd1f0e5837845556915cf04a01.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.4.0_67fc7d73f4169978c30e7eead88d2049cf7eb873.jar" />
+    </item>
+    <item
+        jar="C:\Users\hani\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\commons-io-2.5_2ea543aeeda58860a3e384e5c4a446d2422f91d1.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.0_620ba0b92aa0c158edae15fb6b8a33045b98b2cc.jar" />
+    </item>
+    <item
+        jar="Z:\android\adk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0_10c8a28eb325a9b2aa81e636f51bb9f08d656a7a.jar" />
+    </item>
+    <item
+        jar="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="Z:\users\doc\GitHub\bluelightapp\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.4.0_e957378f01014ffc226e934d4bbbabbe4e7e1ba0.jar" />
+    </item>
+
+</items>
